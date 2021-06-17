@@ -1,10 +1,16 @@
-hamonikr-backgrounds (3.0.1) public; urgency=low
+hamonikr-backgrounds (3.0.2) hanla; urgency=low
+
+  * add hanla image
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 17 Jun 2021 12:07:16 +0900
+
+hamonikr-backgrounds (3.0.1) hanla; urgency=low
 
   * change /usr/share/backgrounds/hamonikr/bg4.jpeg > bg4.jpg
 
  -- HamoniKR <pkg@hamonikr.org>  Mon, 12 Apr 2021 11:08:56 +0900
 
-hamonikr-backgrounds (3.0.0) public; urgency=low
+hamonikr-backgrounds (3.0.0) hanla; urgency=low
 
   * Release for HamoniKR 5.0
 
