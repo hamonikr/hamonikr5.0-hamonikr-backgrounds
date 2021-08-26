@@ -1,3 +1,12 @@
+hamonikr-backgrounds (3.0.4) hanla; urgency=low
+
+  * Fix Background configure hamonikr-logo
+    - Fix cs_backgrounds.py
+    - replace cinnamon-common
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 26 Aug 2021 12:08:05 +0900
+
+
 hamonikr-backgrounds (3.0.3) hanla; urgency=low
 
   * resize hanla image
