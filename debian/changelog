@@ -1,3 +1,9 @@
+hamonikr-backgrounds (3.0.6) hanla; urgency=low
+
+  * Change background images (There are white lines on the left and top.)
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 18 Oct 2021 14:54:35 +0900
+
 hamonikr-backgrounds (3.0.5) hanla; urgency=low
 
   * Add hanla background image
