@@ -1,3 +1,11 @@
+hamonikr-backgrounds (3.0.7) hanla; urgency=low
+
+  * Add background images
+    - basic image without logo
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 10 Nov 2021 13:52:38 +0900
+
+
 hamonikr-backgrounds (3.0.6) hanla; urgency=low
 
   * Change background images (There are white lines on the left and top.)
